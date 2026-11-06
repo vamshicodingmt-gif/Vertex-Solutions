@@ -68,6 +68,6 @@ footer{padding:24px 0;background:var(--black);color:#bdb8ae;border-top:1px solid
 <footer><div class="container footerin"><span>© <span id="year"></span> Vertex Solutions</span><span>Startup scaling · AI · Sales · Marketing · Operations · Manufacturing</span></div></footer>
 <script>
 document.getElementById("year").textContent=new Date().getFullYear();
-function sendMail(e){e.preventDefault();const n=document.getElementById("name").value,e1=document.getElementById("email").value,c=document.getElementById("company").value,m=document.getElementById("message").value;const s=encodeURIComponent("Vertex Solutions enquiry from "+n);const b=encodeURIComponent("Name: "+n+"\nEmail: "+e1+"\nCompany: "+c+"\n\nRequirement:\n"+m);window.location.href="mailto:contact@vertexsolutions.com?subject="+s+"&body="+b}
+function sendMail(e){e.preventDefault();const n=document.getElementById("name").value,e1=document.getElementById("email").value,c=document.getElementById("company").value,m=document.getElementById("message").value;const s=encodeURIComponent("Vertex Solutions enquiry from "+n);const b=encodeURIComponent("Name: "+n+"\nEmail: "+e1+"\nCompany: "+c+"\n\nRequirement:\n"+m);window.location.href="mailto:?subject="+s+"&body="+b}
 </script>
 </body></html>
