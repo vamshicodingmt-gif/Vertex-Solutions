@@ -1,21 +1,28 @@
 # Vertex Solutions
-Vertex Solutions is a business services company.
-## Core areas
-- Startup scaling from India to the US
-- Import-export vendor operations
-- Middleman services and business connections
+
+Canonical website: https://vertexfirm.vercel.app/
+
+Vertex Solutions is a business services company supporting companies with startup expansion, commercial growth, technology implementation and operations.
+
+## Main pages
+- Home: https://vertexfirm.vercel.app/
+- About: https://vertexfirm.vercel.app/about
+- Services: https://vertexfirm.vercel.app/services
+- Contact: https://vertexfirm.vercel.app/contact
+
+## Service areas
+- Startup expansion from India to the United States
+- Import-export vendor coordination
+- Business development and commercial introductions
 - Fundraising support
-- SEO, AEO and GEO marketing
-- Sales and digital marketing
-- Physical marketing
-- Hiring and recruitment
-- Data brokerage
+- Sales development and customer acquisition
+- SEO, AEO, GEO and digital or offline marketing
+- Recruitment and hiring
+- Data brokerage, subject to permissions and applicable law
+- AI workflow integration and agentic workflow design
 - Research-specific model training
-- AI integration into business workflows
-- AI agentic workflows for customer acquisition
 - Brand launches
-- Manufacturing support
-- Factory and manufacturing-unit setup
-- Client acquisition for manufacturing businesses
-## Positioning
-Vertex Solutions focuses on practical business execution across growth, technology, sales, marketing, operations and expansion.
+- Manufacturing operations and factory setup coordination
+
+## Scope and claims
+Service availability and deliverables depend on each engagement's agreed scope. The website does not claim guaranteed funding, sales outcomes, approvals, certifications or unverified testimonials. Cross-border requirements should be confirmed with the relevant authorities and qualified advisers.
